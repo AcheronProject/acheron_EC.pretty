@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Acheron EC is the AcheronProject's KiCad footprint library for electrocapacitive switches. The footprintrs were independently developed by trying to imitate the Topre switch electrocapacitive pads.
+Acheron EC is the AcheronProject's KiCad footprint library for electrocapacitive switches. The footprintrs were independently developed by Gondolindrim and Cipulot based on the Topre switch electrocapacitive pads.
 
 ## How to use
 
@@ -14,4 +14,4 @@ Acheron EC is the AcheronProject's KiCad footprint library for electrocapacitive
 
 ## Copyright notice
 
-This project is released under the Acheron Open-Hardware License V1.3. For the license, please refer to the LICENCE.md file.
+This project is released under the Acheron Open-Hardware License V1.4. For the license, please refer to the LICENCE.md file.
